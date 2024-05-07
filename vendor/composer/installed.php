@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'juandelatorre/devwebcamp',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '8fd0927aa2a95bc24139cceab827407230d2532b',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'juandelatorre/devwebcamp' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '8fd0927aa2a95bc24139cceab827407230d2532b',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
