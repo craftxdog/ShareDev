@@ -1,3 +1,7 @@
-node_modules
+/node_modules
 .DS_Store
-includes/.env
+/includes/.env
+package-lock.json
+package.json
+gulpfile.js
+
